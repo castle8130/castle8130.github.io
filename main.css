@@ -16,6 +16,22 @@ body {
     padding: 2em 2em 4em;
 }
 
+.wrapper {
+    width: 50000 px;
+    margin: auto;
+    
+}
+
+header {
+    background: url ("images/2.jpeg");
+    height: 100vh;
+    -webkit-background-size:cover;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    
+}
+
 
 /* Navbar container */
 .navbar {
